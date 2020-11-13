@@ -1,1 +1,3 @@
-# weight-covverter-app
+# Weight Converter App
+- HTML/CSS/Vanilla JavaScript
+
